@@ -1,5 +1,9 @@
 # MSVC 2022 Compiler Bad Code Generation Issue
 
+Reported to Microsoft in:
+
+https://developercommunity.visualstudio.com/t/Bad-code-gen-with-inlined-functions-with/10813706
+
 ## Bug Demonstration
 
 1. Open the solution with Visual Studio 2022.
